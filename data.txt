@@ -1,0 +1,4 @@
+
+registry_admin_password = "/YQGtE2L6PyeGfz90x6/iEfGFyxkMr3p2p9gseLmRq+ACRAvZcJS"
+registry_admin_username = "kiran19931994"
+registry_login_server = "kiran19931994.azurecr.io"
